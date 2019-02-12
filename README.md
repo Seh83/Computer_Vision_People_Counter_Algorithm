@@ -1,4 +1,4 @@
-# People_Counter_ComputerVision
+# Computer_Vision_People_Counter_Algorithm
 A people counter project that counts people walking in &amp; out of a store.
 
 # REQUIRMENTS FOR THIS PROJECTS:
